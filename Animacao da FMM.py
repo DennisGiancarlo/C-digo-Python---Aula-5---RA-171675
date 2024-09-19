@@ -1,3 +1,4 @@
+pip install numpy
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
@@ -76,5 +77,3 @@ plt.legend()
 
 # Mostrar a animação
 plt.show()
-
-

@@ -207,4 +207,3 @@ ani = FuncAnimation(fig, atualizar, frames=200, interval=100, blit=False)
 # Mostrar as figuras
 plt.show()
 
-
